@@ -241,8 +241,6 @@ The split that matters here is whether a platform's work is hand-authored code. 
 
 ## Keeping this honest
 
-A directory that claims its entries were checked is worth exactly as much as the date on it. Two things keep that true, and only one of them can be automated.
-
 **Links get re-checked on a schedule.** [`check-links.py`](check-links.py) fetches every URL here and reports what it got. It respects the four traps above, and it **fails closed**: if fewer than 70% of links come back healthy it assumes the machine lost network rather than that the web died, and refuses to write a report claiming everything is dead.
 
 ```bash
