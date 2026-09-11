@@ -223,23 +223,6 @@ The split that matters here is whether a platform's work is hand-authored code. 
 | [Sagan Recruitment](https://saganrecruitment.com/career/) | Latin America into United States remote roles. | Free |
 | [Support Adventure](https://supportadventure.com/remote-jobs/) | MSP service desk staffing. Hires worldwide with a short excluded-country list. | Free |
 
-## Keeping this honest
-
-A directory that claims its entries were checked is worth exactly as much as the
-date on it. Two ways to keep that true.
-
-**Re-check the links on a schedule.** A weekly job that fetches every URL here
-and records what it got is enough. Respect the three false positives above or
-the report will cry wolf and you will stop reading it. Only a `404` or `410`
-that persists across two runs has earned having its row deleted.
-
-**Re-check the descriptions less often, by hand.** Links outlive accuracy. A
-platform quietly changes what it sells and the URL keeps resolving, which no
-link checker will ever catch. The entries most prone to this are the AI
-platforms and the talent marketplaces: several in the list below were remote
-developer staffing a year before it was written and are AI-training gig work
-now.
-
 ## What is deliberately not here
 
 - **Anything gated behind an active security clearance.** ClearanceJobs and
