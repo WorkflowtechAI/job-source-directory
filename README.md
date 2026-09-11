@@ -1,6 +1,6 @@
 # Job Source Directory
 
-**113 job boards, aggregators and contracting platforms. Every one opened and checked, not copied from another list.**
+**113 job boards, aggregators and contracting platforms.**
 
 Weighted toward information security, technology leadership, and customer-facing technical roles. The aggregator and remote sections are general.
 
@@ -9,16 +9,6 @@ Last verified **2026-09-11**. See [how this stays honest](#keeping-this-honest).
 > **Corrections and additions are wanted.** Open a PR or an issue. A source that turned out to be dead, a description that has drifted, or a board that belongs here and is missing are all worth a minute of your time and will save someone else an afternoon. [How to contribute](CONTRIBUTING.md).
 
 ---
-
-## Why this exists
-
-Most job-source lists are copied from other job-source lists. Nobody re-opens the links, so the dead entries propagate and the descriptions drift years out of date.
-
-Checking them turned up things a copied list never would:
-
-- **Several widely recommended boards do not exist.** One shut down in June 2026, one was acquired in 2023 and quietly became a recruiting firm, and four managed-services boards are gone entirely. They are absent here rather than listed as defunct, because a directory is a list of places to go, not a graveyard. If a name you expected is missing, that is probably why.
-- **Two well-known infosec boards require an active federal security clearance just to register.** That makes them unusable for most readers rather than merely selective. Said so in place.
-- **Several famous executive search firms publish no listings at all.** They are a resume drop and a contact form. Listing those as a source wastes an afternoon.
 
 ## How to read the Feed column
 
