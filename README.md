@@ -157,6 +157,7 @@ These autofill, tailor and track. None of them submits anything on your own acco
 | [Huntr](https://huntr.co/) | Application tracker with resume tailoring, keyword scanning against a job description, and an autofill extension. The free tier caps tailored resumes at two, which is the feature most people want it for. | Freemium, Pro $40/mo |
 | [Careerflow](https://www.careerflow.ai/) | Resume and LinkedIn optimization, cover letters, autofill, tracking, mock interviews. Sources no listings of its own. | Freemium, from about $14/mo annually |
 | [Jobscan](https://www.jobscan.co/) | Resume and ATS keyword matching against a specific posting. Auto Apply is sold separately as credits, one per application attempt. | Freemium, $49.95/mo or $29.98/mo quarterly |
+| [ResumeAI](https://withresumeai.com/) | Free ATS checker (3/day anon, 10/day free acct); State of ATS 2026 (Workday 37.9%). | Freemium |
 
 
 ### Auto-apply, where a third party submits for you
