@@ -93,6 +93,7 @@ The famous executive boards mostly start at VP and above and gate leads behind a
 
 | Site | What it is | Feed or API |
 |---|---|---|
+| [caio.pro](https://caio.pro/jobs.html) | Public listings for Chief AI Officers, Heads of AI and related AI and data leadership roles. Free to browse. | Yes, [JSON API](https://caio.pro/api/jobs?limit=3&offset=0) |
 | [Forgepoint Capital](https://jobs.forgepointcap.com/jobs) | Cybersecurity-only venture portfolio board. | No |
 | [Ten Eleven Ventures](https://jobs.1011vc.com/jobs) | Cybersecurity-only venture portfolio board, larger than Forgepoint. | No |
 | [Insight Partners](https://jobs.insightpartners.com/jobs) | Private equity portfolio board covering security and infrastructure vendors. | No |
