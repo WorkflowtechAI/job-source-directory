@@ -70,6 +70,10 @@ There is a checker in this repo that respects all four: [`check-links.py`](check
 | [JustRemote](https://justremote.co/remote-jobs) | Remote board. | No |
 | [Jobspresso](https://jobspresso.co) | Curated remote roles. | No |
 | [Torre](https://torre.ai) | Latin America native, profile-driven matching. | No |
+| [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) | New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP) |  |
+| [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) | New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP) |  |
+| [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) | New job postings from any Lever job board since a date or window (Apify Actor, API + MCP) |  |
+| [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) | New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP) |  |
 
 
 ### Information security
