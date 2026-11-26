@@ -49,6 +49,7 @@ There is a checker in this repo that respects all four: [`check-links.py`](check
 | [The Muse](https://www.themuse.com/api/public/jobs?page=1&category=Computer%20and%20IT) | Curated employer profiles plus listings. | Yes, public |
 | [jobdata API](https://jobdataapi.com/) | Aggregated ATS postings. Foorilla's own docs point here rather than at their paid tier. | Yes, anonymous |
 | [Workable search](https://jobs.workable.com/) | Cross-employer search over every Workable-hosted board. | Yes, `/api/v1/jobs` |
+| [Jobvetta](https://www.jobvetta.com/) | Direct-employer career-site index covering security, infrastructure, IT and pre-sales roles alongside general hiring. Searching and reading full descriptions needs no login; outbound apply links and API keys require free sign-in. | Yes, free key (`/v1/jobs` + MCP) |
 | [Careerjet](https://www.careerjet.com/) | Aggregator. API exists but is for affiliates building job sites. | Affiliate-gated |
 | [Jooble](https://jooble.org/) | Aggregator. API key issued by manual approval only. | Manual approval |
 | [TheirStack](https://theirstack.com/en/job-posting-api) | Job-posting data product rather than a board. | Paid |
